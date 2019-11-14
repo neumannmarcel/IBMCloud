@@ -1,0 +1,5 @@
+applications:
+ - name: unruffled-austin
+   memory: 256M
+   host: unruffled-austin
+   buildpack: staticfile_buildpack
